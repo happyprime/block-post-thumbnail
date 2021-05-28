@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: Block Post Thumbnail
-Plugin URI: https://
-Description: Use an image block from a post in place of a featured image.
+Plugin URI: https://github.com/happyprime/block-post-thumbnail
+Description: Use an image block from post content in place of a featured image.
 Version: 0.0.1
-Author: jeremyfelt
-Author URI: https://jeremyfelt.com
-License: GPLv23 or later
+Author: jeremyfelt, happyprime
+Author URI: https://happyprime.co
+License: GPLv3 or later
 */
 
 // If this file is called directly, abort.
